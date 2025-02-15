@@ -1,5 +1,8 @@
 Рассуждение / Reasoning
 Рассуждение = Тезис + Аргумент1 + Аргумент2
+Рассуждение = Умозаключение + Умозаключение + Умозаключение
+Reasoning = Thesis + Argument1 + Argument2
+Reasoning = Logical consequence + Logical consequence + Logical consequence
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Цель (Намерение) / Goal (Intent)                Тезис (Положение, Умозаключение) / Thesis (Position, Logical consequence)
 
@@ -12,7 +15,39 @@ Example: The end justifies the means
 
 Средство - Means                                Аргумент1 (Довод1, Положение1, Умозаключение1)        Аргумент2 (Довод2, Положение2, Умозаключение2)
                                                 Argument1, (Position1, Logical consequence1)            Argument2, (Position2, Logical consequence2)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+Понятие -> Суждение -> Умозаключение
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Умозаключение / Logical consequence:
+  1. Посылка / Premise
+  2. Вывод / Inference - это процесс
+  3. Заключение / Conclusion
+
+
+Посылка / Premise:
+    Высказывание (предложение) / Statement (Sentence) или
+        Выражение / Expression или
+            Суждение / Proposition
+
+
+Заключение / Conclusion
+    Высказывание (предложение) / Statement (Sentence) или
+        Выражение / Expression или
+            Суждение / Proposition
+
+
+
+
+Суждение / Proposition:
+  1. Субьект / Subject
+  2. Предикат (Сказуемое, Утверждение) / Predicate
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
@@ -22,6 +57,6 @@ Statement vs Conclusion
     while a conclusion is a judgment or decision drawn from those statements
 
 
-Statement - высказывание, утверждение, официальный отчет
+Statement - высказывание, официальный отчет
 Premise - Посылка
-Conclusion - Вывод, суждение, умозаключение, заключение
+Conclusion - Заключение
