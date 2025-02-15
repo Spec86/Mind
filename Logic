@@ -5,16 +5,17 @@ Reasoning = Thesis + Argument1 + Argument2
 Reasoning = Logical consequence + Logical consequence + Logical consequence
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Цель (Намерение) / Goal (Intent)                Тезис (Положение, Умозаключение) / Thesis (Position, Logical consequence)
+Почему? (Мотив)
 
 
 
-Пример: Целевое обоснование                                    Обоснование / Justification
+Пример: Целевое (Мотивационное) обоснование                                    Обоснование / Justification
 Example: The end justifies the means
 
 
 
 Средство - Means                                Аргумент1 (Довод1, Положение1, Умозаключение1)        Аргумент2 (Довод2, Положение2, Умозаключение2)
-                                                Argument1, (Position1, Logical consequence1)            Argument2, (Position2, Logical consequence2)
+Зачем? (Цель)                                   Argument1, (Position1, Logical consequence1)            Argument2, (Position2, Logical consequence2)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
