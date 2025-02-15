@@ -3,6 +3,7 @@
 Рассуждение = Умозаключение + Умозаключение + Умозаключение
 Reasoning = Thesis + Argument1 + Argument2
 Reasoning = Logical consequence + Logical consequence + Logical consequence
+Reason / Разум
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Цель (Намерение) / Goal (Intent)                Тезис (Положение, Умозаключение) / Thesis (Position, Logical consequence)
 Почему? (Мотив)
@@ -28,7 +29,7 @@ Example: The end justifies the means
 Умозаключение / Logical consequence:
   1. Посылка / Premise
   2. Вывод / Inference - это процесс дедуктивный или индуктивный
-  3. Заключение / Conclusion
+  3. Заключение (в простонаречье - Вывод)/ Conclusion
 
 
 Посылка / Premise:
